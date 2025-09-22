@@ -6,7 +6,7 @@
 #define WIFI_SSID 
 #define WIFI_PASS 
 
-// Autenticação Adafruit IO
+
 #define IO_USERNAME 
 #define IO_KEY 
 
